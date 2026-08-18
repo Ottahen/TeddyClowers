@@ -4,7 +4,7 @@ TeddyClowers is a privacy-first content-filtering engine implemented as a Rust w
 
 > **Current status:** the core parser, compiler, indexed matcher, exception handling, diagnostics, cache, starter CLI, unit tests, and browser adapter contract are **IMPLEMENTED and TESTED**. The project is not yet **PRODUCTION READY**: full filter-ecosystem compatibility, fuzzing, browser packaging, Android integration, and reproducible benchmark baselines remain future milestones.
 
-## Workspace
+## Workspace..
 
 | Area | Location | Status |
 |---|---|---|
