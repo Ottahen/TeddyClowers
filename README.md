@@ -68,4 +68,6 @@ No comparative performance number is claimed here. The CLI benchmark reports onl
 
 ## License
 
-The repository is structured for GNU GENERAL 3.0 licensing. Add the final copyright holder and license files before publishing.
+The repository is structured for GNU GENERAL 3.0 licensing. 
+©Ottahen
+©PrimeAct
